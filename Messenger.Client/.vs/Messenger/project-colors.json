@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "485e819a-ffdc-4575-931b-902fbde3a310": {
+      "ProjectGuid": "485e819a-ffdc-4575-931b-902fbde3a310",
+      "DisplayName": "Messenger.Client",
+      "ColorIndex": 0
+    },
+    "583525b6-0f53-43d7-9939-3b17c24eac58": {
+      "ProjectGuid": "583525b6-0f53-43d7-9939-3b17c24eac58",
+      "DisplayName": "Messenger.Server",
+      "ColorIndex": 1
+    },
+    "03d4783d-cbfe-4649-a970-9c87d5e485e6": {
+      "ProjectGuid": "03d4783d-cbfe-4649-a970-9c87d5e485e6",
+      "DisplayName": "Messenger.Server",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
